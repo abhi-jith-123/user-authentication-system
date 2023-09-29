@@ -1,0 +1,244 @@
+body{
+    background-image: url("https://img.wallpapic.com/i1198-425-119/medium/black-apple-machintosh-white-and-wallpaper.jpg")
+ }
+  /* .a{
+    position:absolute;
+    display:flex;
+    height:360px;
+    width:400px;
+    background-color: black;
+    left:80px;
+    top: 140px;
+    border-radius:3%;
+    box-shadow:0 2px 4px 
+
+ } 
+
+.s{
+    position: absolute;
+     display: flex;
+    height: 360px;
+    width: 400px;
+    background-color: black;
+    
+    left:40 px;
+    top: 140px;
+    border-radius: 3%;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, .1), 0 8px 16px rgba(0, 0, 0, .1); 
+     
+}  
+ .a{
+    position: absolute;
+    height: 40px;
+    width: 120px;
+    left: 128px;
+    bottom: 300px;
+    background-color: black;
+    color: white;
+    
+}
+.a:hover{
+    transition: 200ms;
+    background-color: darkgrey;
+}
+.b{
+    position: absolute;
+    height: 40px;
+     width: 120px;
+    left: 128px;
+    bottom: 250px;
+    background-color: black;
+    color: white;
+}
+.b:hover{
+    transition: 200ms;
+    background-color: darkgrey;
+}
+.c{
+    position: absolute;
+    height: 40px;
+    left:128px;
+    width: 120px;
+    bottom: 200px;
+    background-color: black;
+    color: white;
+}
+.c:hover{
+    transition: 200ms;
+    background-color: darkgrey;
+}
+.d{
+    position: absolute;
+    height: 40px;
+    left: 128px;
+    width: 120px;
+    bottom: 150px;
+    background-color: black;
+    color: white;
+}
+.d:hover{
+    transition: 200ms;
+    background-color: darkgrey;
+}    */
+.home{
+  
+    padding-bottom: 300px;
+    padding-left: 750px;
+
+}
+.s{
+    height: 140px;
+   
+    margin-left: 15px;
+
+}
+.a{
+    
+      background: #FF4742;
+      border: 1px solid #FF4742;
+      border-radius: 6px;
+      box-shadow: rgba(0, 0, 0, 0.1) 1px 2px 4px;
+      box-sizing: border-box;
+      color: #FFFFFF;
+      cursor: pointer;
+      display: inline-block;
+      font-family: nunito,roboto,proxima-nova,"proxima nova",sans-serif;
+      font-size: 16px;
+      font-weight: 800;
+      line-height: 16px;
+      min-height: 40px;
+      outline: 0;
+      padding: 12px 14px;
+      text-align: center;
+      text-rendering: geometricprecision;
+      text-transform: none;
+      user-select: none;
+      -webkit-user-select: none;
+      touch-action: manipulation;
+      vertical-align: middle;
+
+    }
+    
+    .a:hover,
+    .a:active {
+      background-color: initial;
+      background-position: 0 0;
+      color: #FF4742;
+    }
+    
+    .a:active {
+      opacity: .5;
+    }
+    
+
+
+.b{
+ 
+  background: #FF4742;
+  border: 1px solid #FF4742;
+  border-radius: 6px;
+  box-shadow: rgba(0, 0, 0, 0.1) 1px 2px 4px;
+  box-sizing: border-box;
+  color: #FFFFFF;
+  cursor: pointer;
+  display: inline-block;
+  font-family: nunito,roboto,proxima-nova,"proxima nova",sans-serif;
+  font-size: 16px;
+  font-weight: 800;
+  line-height: 16px;
+  min-height: 40px;
+  outline: 0;
+  padding: 12px 14px;
+  text-align: center;
+  text-rendering: geometricprecision;
+  text-transform: none;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  vertical-align: middle;
+}
+
+.b:hover,
+.b:active {
+  background-color: initial;
+  background-position: 0 0;
+  color: #FF4742;
+}
+
+.b:active {
+  opacity: .5;
+}
+
+.c{
+
+      background: #FF4742;
+      border: 1px solid #FF4742;
+      border-radius: 6px;
+      box-shadow: rgba(0, 0, 0, 0.1) 1px 2px 4px;
+      box-sizing: border-box;
+      color: #FFFFFF;
+      cursor: pointer;
+      display: inline-block;
+      font-family: nunito,roboto,proxima-nova,"proxima nova",sans-serif;
+      font-size: 16px;
+      font-weight: 800;
+      line-height: 16px;
+      min-height: 40px;
+      outline: 0;
+      padding: 12px 14px;
+      text-align: center;
+      text-rendering: geometricprecision;
+      text-transform: none;
+      user-select: none;
+      -webkit-user-select: none;
+      touch-action: manipulation;
+      vertical-align: middle;
+    }
+    
+    .c:hover,
+    .c:active {
+      background-color: initial;
+      background-position: 0 0;
+      color: #FF4742;
+    }
+    
+    .c:active {
+      opacity: .5;
+    }
+
+.d{
+    
+      background: #FF4742;
+      border: 1px solid #FF4742;
+      border-radius: 6px;
+      box-shadow: rgba(0, 0, 0, 0.1) 1px 2px 4px;
+      box-sizing: border-box;
+      color: #FFFFFF;
+      cursor: pointer;
+      display: inline-block;
+      font-family: nunito,roboto,proxima-nova,"proxima nova",sans-serif;
+      font-size: 16px;
+      font-weight: 800;
+      line-height: 16px;
+      min-height: 40px;
+      outline: 0;
+      padding: 12px 14px;
+      text-align: center;
+      text-rendering: geometricprecision;
+      text-transform: none;
+      user-select: none;
+      -webkit-user-select: none;
+      touch-action: manipulation;
+      vertical-align: middle;
+    }
+    
+    .d:hover,
+    .d:active {
+      background-color: initial;
+      background-position: 0 0;
+      color: #FF4742;
+    }
+    
+    .d:active {
+      opacity: .5;
+    }
